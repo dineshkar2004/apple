@@ -11,7 +11,7 @@ body{
     margin:0;
     background-color: #454545;
     overflow: hidden;
-    z-index: 1;
+    z-index: 6;
     
 }
 .nav1 li a{
